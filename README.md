@@ -1,12 +1,12 @@
 # Hi 👋 I'm Pouya Barari Gelyard
 
 **Learning...**
->JavaScript
->React
->Typescript
+>JavaScript & 
+>React & 
+>Typescript 
 
 **Development**
-> CSS
-> HTML
-> Tailwind
+> CSS &
+> HTML &
+> Tailwind &
 > Sass
