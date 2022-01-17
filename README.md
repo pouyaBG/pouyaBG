@@ -8,4 +8,4 @@
 **Development**
 > CSS &
 > HTML &
-> Tailwind &
+> Tailwind 
