@@ -9,4 +9,3 @@
 > CSS &
 > HTML &
 > Tailwind &
-> Sass
