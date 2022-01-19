@@ -3,9 +3,11 @@
 **Learning...**
 >JavaScript & 
 >React & 
->Typescript 
+>Typescript & 
+>jQuery
 
 **Development**
 > CSS &
 > HTML &
-> Tailwind 
+> Tailwind & 
+> BootStrap
