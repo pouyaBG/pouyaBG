@@ -6,9 +6,9 @@ If you lost me. I'm on the path to education.
 
 # **Learning...**
 >JavaScript & 
->React & 
+>React 
 
-# **Development**
+# **Practice**
 > CSS &
 > HTML &
 > Tailwind & 
