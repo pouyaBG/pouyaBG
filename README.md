@@ -1,7 +1,8 @@
 # Hi 👋 I'm Pouya Barari Gelyard
 
 # About Me :
-Computer engineering student interested in web programming,
+Computer engineering
+student interested in web programming,
 If you lost me. I'm on the path to education.
 
 # **Learning...**
